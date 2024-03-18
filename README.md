@@ -2,4 +2,4 @@
 Made with React 18
 
 ## Authors
-[CardosoDev04] : [https://github.com/CardosoDev04]
+- [João Cardoso](https://github.com/CardosoDev04)
